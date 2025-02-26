@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_snap-store.desktop" score="0" last-seen="1740078054"/>
+    <application id="org.gnome.Nautilus.desktop" score="209" last-seen="1740421515"/>
+    <application id="org.gnome.Terminal.desktop" score="962" last-seen="1740532019"/>
+    <application id="org.gnome.Characters.desktop" score="1" last-seen="1740418805"/>
+    <application id="update-manager.desktop" score="1" last-seen="1740532026"/>
+    <application id="org.gnome.TextEditor.desktop" score="8" last-seen="1740421512"/>
+  </context>
+</application-state>

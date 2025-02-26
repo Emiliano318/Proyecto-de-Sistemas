@@ -1,0 +1,4 @@
+{"timestamp":71319,"category":"browser.usage","name":"interaction","extra":{"widget_id":"tabs-newtab-button","glean_timestamp":"1739815964756","source":"tabs-bar","flow_id":"{edbd87e2-a6e7-4827-a410-b760bf287447}"}}
+{"timestamp":73034,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","widget_id":"tab-close-button","glean_timestamp":"1739815966470","flow_id":"{edbd87e2-a6e7-4827-a410-b760bf287447}"}}
+{"timestamp":73934,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","widget_id":"tab-close-button","glean_timestamp":"1739815967371","flow_id":"{edbd87e2-a6e7-4827-a410-b760bf287447}"}}
+{"timestamp":134648,"category":"browser.usage","name":"interaction","extra":{"widget_id":"cmd-closeWindow","glean_timestamp":"1739816028085","flow_id":"{edbd87e2-a6e7-4827-a410-b760bf287447}","source":"tabs-bar"}}
